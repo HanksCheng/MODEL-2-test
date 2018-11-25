@@ -16,7 +16,7 @@ public class Main {
                 maxval=n;
             }
         }
-        System.out.println("min:"+minval);
-        System.out.println("max:"+maxval);
+        System.out.printf("max:%.2f\n",maxval);
+        System.out.printf("min:%.2f\n",minval);
     }
 }
