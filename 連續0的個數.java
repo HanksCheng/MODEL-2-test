@@ -14,7 +14,6 @@ public class Main {
             factorial=factorial/10;
             count++;
         }
-        System.out.println(count);
-        System.out.println(factorial);
+        System.out.println(count)
     }
 }
